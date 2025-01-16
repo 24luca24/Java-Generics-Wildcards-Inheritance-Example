@@ -8,3 +8,5 @@ In particular I've create a hierarchy and I resolve this exercise:
     1. all (possibly raw) types of ArrayList instances that can be assign to the variable
     2. all (possibly raw) types that can be obtained from a get operation on list;
     3. all (possibly raw) types that can be added to the list with an add operation. Consider null values
+
+To read better the Shape class that is the one with the examples, I sugget the use of "Better comments" extention on VSCode.
